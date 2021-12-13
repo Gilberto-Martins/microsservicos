@@ -1,0 +1,16 @@
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\Microsservicos\microsservicos\microsservico\bin\Debug\net5.0\microsservico.exe
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\Microsservicos\microsservicos\microsservico\bin\Debug\net5.0\microsservico.deps.json
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\Microsservicos\microsservicos\microsservico\bin\Debug\net5.0\microsservico.runtimeconfig.json
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\Microsservicos\microsservicos\microsservico\bin\Debug\net5.0\microsservico.runtimeconfig.dev.json
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\Microsservicos\microsservicos\microsservico\bin\Debug\net5.0\microsservico.dll
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\Microsservicos\microsservicos\microsservico\bin\Debug\net5.0\ref\microsservico.dll
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\Microsservicos\microsservicos\microsservico\bin\Debug\net5.0\microsservico.pdb
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\Microsservicos\microsservicos\microsservico\obj\Debug\net5.0\microsservico.csproj.AssemblyReference.cache
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\Microsservicos\microsservicos\microsservico\obj\Debug\net5.0\microsservico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\Microsservicos\microsservicos\microsservico\obj\Debug\net5.0\microsservico.AssemblyInfoInputs.cache
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\Microsservicos\microsservicos\microsservico\obj\Debug\net5.0\microsservico.AssemblyInfo.cs
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\Microsservicos\microsservicos\microsservico\obj\Debug\net5.0\microsservico.csproj.CoreCompileInputs.cache
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\Microsservicos\microsservicos\microsservico\obj\Debug\net5.0\microsservico.dll
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\Microsservicos\microsservicos\microsservico\obj\Debug\net5.0\ref\microsservico.dll
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\Microsservicos\microsservicos\microsservico\obj\Debug\net5.0\microsservico.pdb
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\Microsservicos\microsservicos\microsservico\obj\Debug\net5.0\microsservico.genruntimeconfig.cache
