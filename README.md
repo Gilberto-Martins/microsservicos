@@ -39,3 +39,8 @@ Introdução a microsserviços com .NET
     Fora os casos que o vertical não comportaria a necessidade, afinal essa estratégia tem um limite que em tese o horizontal não tem, o horizontal tem a<br> vantagem de ser mais tolerante a falhas, ou pelo menos ser mais fácil ter a operação de volta em caso de alguma falha.
 </p>
 
+<h3>Micro Serviços</h3>
+<p>
+    Microsserviços são uma abordagem arquitetônica e organizacional do desenvolvimento de software na qual o software consiste em pequenos serviços<br> independentes que se comunicam usando APIs bem definidas. Esses serviços pertencem a pequenas equipes autossuficientes.<br><br>
+    As arquiteturas de microsserviços facilitam a escalabilidade e agilizam o desenvolvimento de aplicativos, habilitando a inovação e acelerando o tempo de<br> introdução de novos recursos no mercado.
+</p>
